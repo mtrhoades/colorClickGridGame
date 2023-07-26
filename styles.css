@@ -3,15 +3,15 @@
 /* You can customize the grid dimensions and other styles as you wish */
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(14, 150px); /* Adjust the number of columns as needed */
+    grid-template-columns: repeat(14, 350px); /* Adjust the number of columns as needed */
     grid-gap: 0; /* Add space between grid items */
     margin: 0;
   }
   
   /* You can customize the appearance of the grid items here */
   .grid-item {
-    width: 250px;
-    height: 150px;
+    width: 350px;
+    height: 350px;
     background-color: #FFFFFF;
     /* border: 1px solid black; */
     display: flex;
